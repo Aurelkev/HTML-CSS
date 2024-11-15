@@ -1,6 +1,6 @@
 # HTML-CSS
 
-/*CSS*/
+<!-- CSS
 Inline CSS : <h1 style="color: blue;">
 CSS interne : 
 <head>
@@ -13,3 +13,4 @@ CSS externe : dans le fichier CSS lié au fichier HTML :
 h1 {
 color:blue;
 }
+ -->
